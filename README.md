@@ -5,6 +5,7 @@
   <img src="jorge_barros.png" width=70% >
 </p>
 
+## Hi, I'm Jorge Barros 
 
 ## Data Scientist and Internship at Fiat Chrysler Automobiles - Jeep
 
