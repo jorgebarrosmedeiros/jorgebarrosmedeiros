@@ -28,7 +28,6 @@
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
 
 
-**Connect With Me**
 <p align="center">
 
 <div align="center">
