@@ -12,7 +12,12 @@
 
 
 
-**Background in:** Python, Machine Learning and Business Intelligence.
+**Background in:**
+    - **Python**
+    - **Data Science**
+    - **Data Analytics**
+    - **Machine Learning** 
+    - **Business Intelligence**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jorge-barros-89b768175/)
