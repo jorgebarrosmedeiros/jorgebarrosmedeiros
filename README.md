@@ -13,12 +13,12 @@
 
 
 **Background in:**
-    - **Python**
-    - **Data Science**
-    - **Data Analytics**
-    - **Machine Learning** 
-    - **Business Intelligence**
-
+ * **Python**
+ * **Data Science**
+ * **Data Analytics**
+ * **Machine Learning** 
+ * **Business Intelligence**
+    
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jorge-barros-89b768175/)
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
