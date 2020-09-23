@@ -28,7 +28,9 @@
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
 
 ## Connect With Me
-
+<p align="center">
+  <img src="jorge_barros.png" width=70% >
+</p>
 <a href="https://www.linkedin.com/in/jorge-barros-89b768175/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
