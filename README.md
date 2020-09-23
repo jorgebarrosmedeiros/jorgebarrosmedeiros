@@ -27,13 +27,12 @@
 * [![Gmail Badge](https://img.shields.io/badge/-jorgebarrosmedeiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgebarrosmedeiros@gmail.com)](mailto:jorgebarrosmedeiros@gmail.com)
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
 
-## Connect With Me**
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/jorge-barros-89b768175/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/jorgebarrosmedeiros">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+
 
 
 ## Projects:
