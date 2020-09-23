@@ -28,11 +28,12 @@
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
 
 **Connect With Me**
-**Connect with me:**
-<p align="left">	<p align="left">
-<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;	<a href="https://www.instagram.com/jorge.barros.35/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 
-
+<a href="https://www.linkedin.com/in/jorge-barros-89b768175/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/jorgebarrosmedeiros">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 
 ## Projects:
 
