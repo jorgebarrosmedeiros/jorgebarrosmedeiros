@@ -31,6 +31,8 @@
 
 ## Projects:
 
+* [Rossmann Store - Sales Forecast](https://github.com/jorgebarrosmedeiros/RossmannStore)
+  * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 
 ## Skills
