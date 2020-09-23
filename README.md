@@ -27,6 +27,11 @@
 * [![Gmail Badge](https://img.shields.io/badge/-jorgebarrosmedeiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgebarrosmedeiros@gmail.com)](mailto:jorgebarrosmedeiros@gmail.com)
 * [Medium](https://medium.com/@jorgebarrosmedeiros)
 
+**Connect With Me**
+**Connect with me:**
+<p align="left">	<p align="left">
+<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;	<a href="https://www.instagram.com/jorge.barros.35/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+
 
 
 ## Projects:
