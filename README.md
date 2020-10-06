@@ -11,8 +11,13 @@
 
 ### About Me
 
+Hi, I can start by saying that I am completely in love with everything related to artificial intelligence and data science. I am an electronic engineering student at the Federal Rural University of Pernambuco and Data Science at the Boa Viagem University. I am currently part of the maintenance team of Fiat Chrysler Automobiles (FCA - Jeep), working in the area of Data Analysis and Mechanics, as I have technical training in Industrial Mechanics.
 
+I think it is important to mention that I like to work as a team, I am completely focused and dedicated to the activities I do. I always like to learn new things and also to teach.
 
+So, I hope you will learn from the projects I have done.
+
+Follow me on social media.
 
 **Background in:**
  * **Python**
@@ -32,7 +37,7 @@
 
 ## Projects:
 
-### [Rossmann Store - Sales Forecast](https://github.com/jorgebarrosmedeiros/RossmannStore)
+### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 
