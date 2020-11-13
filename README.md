@@ -40,6 +40,9 @@ Follow me on social media.
 ### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
+### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
+  * Repository: https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases
+  
 
 ## Skills
 
