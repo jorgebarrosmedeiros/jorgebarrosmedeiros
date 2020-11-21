@@ -47,6 +47,10 @@ Follow me on social media.
   * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
   
 
+
+
+
+
 ## Skills
 
 <table>
