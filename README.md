@@ -43,6 +43,9 @@ Follow me on social media.
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
   * Repository: https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases
   
+### [Blocker Fraud Company - Fraud Detection](https://github.com/jorgebarrosmedeiros/fraud_detection)
+  * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
+  
 
 ## Skills
 
