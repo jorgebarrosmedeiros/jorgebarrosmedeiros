@@ -46,6 +46,9 @@ Follow me on social media.
 ### [Blocker Fraud Company - Fraud Detection](https://github.com/jorgebarrosmedeiros/fraud_detection)
   * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
   
+### [House Prices - Regression Problem](https://github.com/jorgebarrosmedeiros/house_prices)
+  * Repository: https://github.com/jorgebarrosmedeiros/house_prices
+  
 
 
 
