@@ -19,7 +19,7 @@ Hi, I can start by saying that I am completely in love with everything related t
 
 I think it is important to mention that I like to work as a team, I am completely focused and dedicated to the activities I do. I always like to learn new things and also to teach.
 
-So, I hope you will learn from the projects I have done.
+So, I hope you learn from the projects I have done.
 
 Follow me on social media.
 
