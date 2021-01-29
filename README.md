@@ -41,7 +41,7 @@ Follow me on social media.
 
 
 
-## Projects:
+## Data Science Projects:
 
 ### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
