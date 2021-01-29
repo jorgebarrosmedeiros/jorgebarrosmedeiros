@@ -22,7 +22,7 @@ Follow me on social media.
 **Background in:**
 **Analytical Tools:**
 
-* Data Collect and Storage: SQL, MySQL, Postgres, SQL Server.
+* **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server.
 * Data Processing and Analysis: Python.
 * Development: Git, Scrum, Lean Analytics, Linux and Docker.
 * Data Vizualization: Power BI, Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
