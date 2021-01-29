@@ -42,8 +42,8 @@ Follow me on social media.
 
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
   * Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals.
-In this project, I developed a Machine Learning model able to detect disease in early stages with 65% accuracy over 70k patience.
-The performance of this model would increase revenue of U$81.2 millions according to the company's business model described in the problem definition.
+In this project, I developed a Machine Learning model able to detect disease in early stages with 75% accuracy over 70k patience.
+The performance of this model would increase revenue of U$175 millions according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases
   
 ### [Blocker Fraud Company - Fraud Detection](https://github.com/jorgebarrosmedeiros/fraud_detection)
