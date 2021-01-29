@@ -30,7 +30,7 @@ Follow me on social media.
 
 * [![Linkedin Badge](https://img.shields.io/badge/-JorgeBarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-barros-89b768175/)](https://www.linkedin.com/in/jorge-barros-89b768175/)
 * [![Gmail Badge](https://img.shields.io/badge/-jorgebarrosmedeiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgebarrosmedeiros@gmail.com)](mailto:jorgebarrosmedeiros@gmail.com)
-* [Medium](https://medium.com/@jorgebarrosmedeiros)
+* [Website](https://garagemdosdados.com.br/)
 
 
 
