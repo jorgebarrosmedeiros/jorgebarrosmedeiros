@@ -41,9 +41,15 @@ Follow me on social media.
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
+  *Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals.
+In this project, I developed a Machine Learning model able to detect disease in early stages with 65% accuracy over 70k patience.
+The performance of this model would increase revenue of U$81.2 millions according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases
   
 ### [Blocker Fraud Company - Fraud Detection](https://github.com/jorgebarrosmedeiros/fraud_detection)
+  * Machine Learning and taking fraud detection to the next level. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
+In this project, I built a Machine Learning classifier to label fraudulent transactions with 99.63% of accuracy.
+The performance of this model would bring revenue of U$877,5 millions according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
   
 ### [House Prices - Regression Problem](https://github.com/jorgebarrosmedeiros/house_prices)
