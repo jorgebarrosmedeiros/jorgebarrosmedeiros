@@ -20,11 +20,14 @@ So, I hope you will learn from the projects I have done.
 Follow me on social media.
 
 **Background in:**
- * **Python**
- * **Data Science**
- * **Data Analytics**
- * **Machine Learning** 
- * **Business Intelligence**
+**Analytical Tools:**
+
+* Data Collect and Storage: SQL, MySQL, Postgres, SQL Server.
+* Data Processing and Analysis: Python.
+* Development: Git, Scrum, Lean Analytics, Linux and Docker.
+* Data Vizualization: Power BI, Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
+* Machine Learning Modeling: Classification, Regression, Clustering, Time Series and Computer Vision.
+* Machine Learning Deployment: Heroku, AWS Cloud and Google Cloud Platform ( GCP )
     
 **Where to Find Me:**
 
