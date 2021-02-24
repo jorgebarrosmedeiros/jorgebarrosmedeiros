@@ -7,7 +7,7 @@
 
 ## Hi, I'm Jorge Barros 
 
-## Data Scientist and Internship at Fiat Chrysler Automobiles - Jeep
+## Junior Data Scientist at KeyCash Company
 
 <p align='center'>
     <img src='banner.png'<
