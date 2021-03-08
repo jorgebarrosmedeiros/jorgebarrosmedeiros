@@ -44,7 +44,7 @@ Follow me on social media.
 ## Data Science Projects:
 
 ### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
-  *In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+  * In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
