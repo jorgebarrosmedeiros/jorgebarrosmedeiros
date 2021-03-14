@@ -44,7 +44,10 @@ Follow me on social media.
 ## Data Science Projects:
 
 ### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
-  * In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
+  * Currently, knowing how much your company will bill in the coming weeks would change your decisions?
+ This project aims to use machine learning techniques to forecast sales in the next 6 weeks of a store called Rossmann.
+ The XGBoost algorithm was used, obtaining a MAPE of 15%.
+ The performance of this model would bring revenue of $ 277 million according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
@@ -60,6 +63,8 @@ The performance of this model would bring revenue of U$898 millions according to
   * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
   
 ### [House Prices - Regression Problem](https://github.com/jorgebarrosmedeiros/house_prices)
+  * Housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers. In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features
+  The Random Forest Regressor algorithm was used, obtaining a MAPE of 7%.. 
   * Repository: https://github.com/jorgebarrosmedeiros/house_prices
   
 
