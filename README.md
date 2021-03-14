@@ -17,9 +17,11 @@
 
 Hi, I can start by saying that I am completely in love with everything related to artificial intelligence and data science. I am an electronic engineering student at the Federal Rural University of Pernambuco and Data Science student at the Boa Viagem University. Currently, i am a Junior Data Scientist at Keycash company.
 
-I think it is important to mention that I like to work as a team, I am completely focused and dedicated to the activities I do. I always like to learn new things and also to teach.
+I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
-So, I hope you learn from the projects I have done.
+I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
+
+The details of each solution are described in the projects below.
 
 Follow me on social media.
 
