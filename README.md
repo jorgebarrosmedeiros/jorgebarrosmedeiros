@@ -70,7 +70,7 @@ The performance of this model would bring revenue of U$898 millions according to
   * Repository: https://github.com/jorgebarrosmedeiros/house_prices
 
 ### [Health Insurance Predict](https://github.com/jorgebarrosmedeiros/health_insurance)
-  *
+  * This project aims to make the company "Insurance Health" profit more. This company provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance. Therefore, a machine learning model was built that detects customers interested in the services.
   * Repository: https://github.com/jorgebarrosmedeiros/health_insurance
   
 
