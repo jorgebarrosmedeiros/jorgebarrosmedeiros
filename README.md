@@ -44,6 +44,10 @@ Follow me on social media.
 
 ## Data Science Projects:
 
+### [Airbnb - Athens | Grecce - Listing Price Estimator](https://github.com/jorgebarrosmedeiros/airbnb)
+  * This project's main objective is to analyze airbnb data for the city of Athens and build a machine learning model to predict the price of new listings. As a prediction algorithm, the LGBM was used, obtaining a MAPE of 30%.
+  * Repository: https://github.com/jorgebarrosmedeiros/airbnb
+
 ### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
   * Currently, knowing how much your company will bill in the coming weeks would change your decisions?
  This project aims to use machine learning techniques to forecast sales in the next 6 weeks of a store called Rossmann.
