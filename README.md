@@ -75,11 +75,12 @@ The performance of this model would bring revenue of U$898 millions according to
 ### [Health Insurance Predict](https://github.com/jorgebarrosmedeiros/health_insurance)
   * This project aims to make the company "Insurance Health" profit more. This company provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance. Therefore, a machine learning model was built that detects customers interested in the services. The ExtraTreesClassifier model was used, which obtained the best performance from the cumulative gain curve and lift curve metrics, to solve the problem.
   * Repository: https://github.com/jorgebarrosmedeiros/health_insurance
+
+### [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
+  * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
+  * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
+  * Repository: https://github.com/jorgebarrosmedeiros/H-M_Jeans/blob/main/notebook.ipynb
   
-
-
-
-
 
 ## Skills
 
