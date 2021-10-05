@@ -7,7 +7,7 @@
 
 ## Hi, I'm Jorge Barros 
 
-## Junior Data Scientist at KeyCash Company
+## Data Scientist
 
 <p align='center'>
     <img src='banner.png'<
