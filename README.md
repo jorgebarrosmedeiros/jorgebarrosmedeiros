@@ -44,6 +44,14 @@ Follow me on social media.
 
 ## Data Science Projects:
 
+### [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
+  * In this project covering all stages of a real Data Science project I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
+  * What are the factors that influence an employee to leave the company?
+  * How to retain people?
+  * How to anticipate and know if a particular employee will leave the company?
+  * And finally, make resources available so that the company can make the prediction to verify whether or not an employee will leave the company based on attributes such as behavior and workload, level of satisfaction with the company and performance results.
+  * Repository: https://github.com/jorgebarrosmedeiros/human-resource-analytics
+
 ### [Airbnb - Athens | Grecce - Listing Price Estimator](https://github.com/jorgebarrosmedeiros/airbnb)
   * This project's main objective is to analyze airbnb data for the city of Athens and build a machine learning model to predict the price of new listings. As a prediction algorithm, the LGBM was used, obtaining a MAPE of 30%.
   * Repository: https://github.com/jorgebarrosmedeiros/airbnb
