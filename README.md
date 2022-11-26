@@ -42,7 +42,7 @@ Follow me on social media.
 
 ## Data Engineering Projects:
 
-### [Gasoline in Brazil | Pipeline Googel Cloud Plataform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
+### [Gasoline in Brazil | Pipeline Google Cloud Plataform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
   * In this project covering all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
   * Repository: https://github.com/jorgebarrosmedeiros/pipeline_gcp
 
