@@ -7,7 +7,7 @@
 
 ## Hi, I'm Jorge Barros 
 
-## Data Scientist
+## Data Scientist | Data Engineer
 
 <p align='center'>
     <img src='banner.png'<
@@ -40,9 +40,11 @@ Follow me on social media.
 * [Website](https://garagemdosdados.com.br/)
 
 
+## Data Engineering Projects:
 
-
-## Data Science Projects:
+### [Gasoline in Brazil | Pipeline Googel Cloud Plataform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
+  * In this project covering all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
+  * Repository: https://github.com/jorgebarrosmedeiros/pipeline_gcp
 
 ### [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
   * In this project covering all stages of a real Data Science project I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
@@ -51,6 +53,13 @@ Follow me on social media.
   * How to anticipate and know if a particular employee will leave the company?
   * And finally, make resources available so that the company can make the prediction to verify whether or not an employee will leave the company based on attributes such as behavior and workload, level of satisfaction with the company and performance results.
   * Repository: https://github.com/jorgebarrosmedeiros/human-resource-analytics
+
+### [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
+  * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
+  * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
+  * Repository: https://github.com/jorgebarrosmedeiros/H-M_Jeans/blob/main/notebook.ipynb
+
+## Data Science Projects:
 
 ### [Airbnb - Athens | Grecce - Listing Price Estimator](https://github.com/jorgebarrosmedeiros/airbnb)
   * This project's main objective is to analyze airbnb data for the city of Athens and build a machine learning model to predict the price of new listings. As a prediction algorithm, the LGBM was used, obtaining a MAPE of 30%.
@@ -84,10 +93,7 @@ The performance of this model would bring revenue of U$898 millions according to
   * This project aims to make the company "Insurance Health" profit more. This company provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance. Therefore, a machine learning model was built that detects customers interested in the services. The ExtraTreesClassifier model was used, which obtained the best performance from the cumulative gain curve and lift curve metrics, to solve the problem.
   * Repository: https://github.com/jorgebarrosmedeiros/health_insurance
 
-### [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
-  * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
-  * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
-  * Repository: https://github.com/jorgebarrosmedeiros/H-M_Jeans/blob/main/notebook.ipynb
+
   
 
 ## Skills
