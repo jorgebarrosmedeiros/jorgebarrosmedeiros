@@ -42,6 +42,10 @@ Follow me on social media.
 
 ## Data Engineering Projects:
 
+### [Modern Data Stack | Airbyte + DBT + Snoflake + Airflow](https://github.com/jorgebarrosmedeiros/modern-data-stack)
+  * This time the objective was to develop the entire Data Pipeline using some tools that together are known as "Modern Data Stack". Initially, a Covid 19 data connector was created with Airbyte. The saved data was integrated and sent to our Data Warehouse (Snowflake). To build the final table, I used DBT, allowing transformations and versioning of SQL codes, being an extremely powerful tool. Finally, to orchestrate this entire pipeline, I used Airflow.
+  * Respository: https://github.com/jorgebarrosmedeiros/modern-data-stack
+ 
 ### [Gasoline in Brazil | Pipeline Google Cloud Plataform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
   * In this project covering all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
   * Repository: https://github.com/jorgebarrosmedeiros/pipeline_gcp
