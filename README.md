@@ -15,12 +15,27 @@
 
 ### About Me
 
-Hi, I can start by saying that I am completely in love with everything related to artificial intelligence and data science. I am an electronic engineering student at the Federal Rural University of Pernambuco and a Data Science student at the Boa Viagem University. Currently, I am a Junior Data Scientist at Keycash company.
-I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
+🚀 Driven Data Engineer with 3+ years of experience in data engineering. I help companies unlock the potential of their data to drive growth and innovation. 💡
 
-I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
+⭐️ Some examples include: 
 
-The details of each solution are described in the projects below.
+🔹 🏗️ Built a Datalakehouse using Google Cloud infrastructure, improving data storage and accessibility, resulting in a 20% increase in data availability and a 15% reduction in data errors. 
+🔹 🚀 Developed ETL pipelines processing over 1TB of data daily, optimizing data delivery and ensuring data quality, leading to a 30% improvement in data processing efficiency. 
+🔹 🌐 Utilized Terraform to automate the creation of infrastructure, reducing deployment time by 30%.
+🔹 ⚙️ Implemented DBT (Data Build Tool) to streamline data transformation and modeling processes, ensuring efficient and scalable data pipelines for analytics and reporting.
+🔹 🗂️🔍 Implemented data lineage tracking and data catalog solutions to enhance data governance and data management processes.
+
+In my past experiences I've worked with:
+
+>> Building data products and infrastructure from scratch 🚀🔧
+>> Building data lakes and DataWarehouse to serve the business team 📊🏢
+>> Building APIs for process automation ⚙️🌐
+>> Creating machine learning models 🧠🔬
+>> Managing data projects 📈🔧
+
+🔧 Those are the main technologies I've been working with: 🌐 Google Cloud, AWS (Amazon Web Services), Python, Airflow, DBT, SQL, BigQuery, Terraform, Snowflake, and web scraping techniques (Scrapy, Beautiful Soup, Selenium).
+
+Let's connect to discuss how I can help your company harness the power of data to drive actionable insights and achieve your business goals. 📈💼
 
 Follow me on social media.
 
@@ -29,7 +44,7 @@ Follow me on social media.
 * **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server.
 * **Data Processing and Analysis:** Python.
 * **Development:** Git, Scrum, Lean Analytics, Linux and Docker.
-* **Data Vizualization:** Power BI, Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
+* **Data Visualization:** Power BI, Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
 * **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series and Computer Vision.
 * **Machine Learning Deployment:** Heroku, AWS Cloud and Google Cloud Platform ( GCP )
     
@@ -39,67 +54,71 @@ Follow me on social media.
 * [![Gmail Badge](https://img.shields.io/badge/-jorgebarrosmedeiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgebarrosmedeiros@gmail.com)](mailto:jorgebarrosmedeiros@gmail.com)
 * [Website](https://garagemdosdados.com.br/)
 
+# Data Engineering Projects:
 
-## Data Engineering Projects:
+# AWS Projects:
 
-### [Modern Data Stack -- MongoDB --> Airbyte --> Snowflake --> DBT](https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development)
+# GCP Projects
 
-### [Modern Data Stack | Airbyte + DBT + Snoflake + Airflow](https://github.com/jorgebarrosmedeiros/modern-data-stack)
-  * This time the objective was to develop the entire Data Pipeline using some tools that together are known as "Modern Data Stack". Initially, a Covid 19 data connector was created with Airbyte. The saved data was integrated and sent to our Data Warehouse (Snowflake). To build the final table, I used DBT, allowing transformations and versioning of SQL codes, being an extremely powerful tool. Finally, to orchestrate this entire pipeline, I used Airflow.
-  * Respository: https://github.com/jorgebarrosmedeiros/modern-data-stack
- 
-### [Gasoline in Brazil | Pipeline Google Cloud Plataform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
-  * In this project covering all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
+## [Gasoline in Brazil | Pipeline Google Cloud Platform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
+  * In this project covers all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to know about:
   * Repository: https://github.com/jorgebarrosmedeiros/pipeline_gcp
 
-### [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
-  * In this project covering all stages of a real Data Science project I was able to solve the problem of how to use data to answer important questions to allow a company to have knowledge about:
+# Other Data engineering projects:
+
+## [Modern Data Stack -- MongoDB --> Airbyte --> Snowflake --> DBT](https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development)
+  * The Modern Data Stack Pipeline project showcases the seamless orchestration of data through a cutting-edge architecture designed for efficiency, scalability, and flexibility. This project leverages key components such as MongoDB, Airbyte, Snowflake, and DBT to create a robust data infrastructure that empowers organizations to harness the power of their data.
+  * https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development
+## [Modern Data Stack | Airbyte + DBT + Snoflake + Airflow](https://github.com/jorgebarrosmedeiros/modern-data-stack)
+  * This time the objective was to develop the entire Data Pipeline using some tools that together are known as "Modern Data Stack". Initially, a Covid 19 data connector was created with Airbyte. The saved data was integrated and sent to our Data Warehouse (Snowflake). To build the final table, I used DBT, allowing transformations and versioning of SQL codes, which is an extremely powerful tool. Finally, to orchestrate this entire pipeline, I used Airflow.
+  * Repository: https://github.com/jorgebarrosmedeiros/modern-data-stack
+
+## [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
+  * In this project covering all stages of a real Data Science project I was able to solve the problem of how to use data to answer important questions to allow a company to know about:
   * What are the factors that influence an employee to leave the company?
   * How to retain people?
   * How to anticipate and know if a particular employee will leave the company?
-  * And finally, make resources available so that the company can make the prediction to verify whether or not an employee will leave the company based on attributes such as behavior and workload, level of satisfaction with the company and performance results.
+  * Finally, make resources available so that the company can predict to verify whether or not an employee will leave the company based on attributes such as behavior and workload, level of satisfaction with the company and performance results.
   * Repository: https://github.com/jorgebarrosmedeiros/human-resource-analytics
 
-### [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
-  * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
-  * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
+## [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
+  * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful businesses, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case, the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
+  * So this project went through the entire data pipeline, from the extraction to the architecture of airflow automation.
   * Repository: https://github.com/jorgebarrosmedeiros/H-M_Jeans/blob/main/notebook.ipynb
 
 ## Data Science Projects:
 
 ### [Airbnb - Athens | Grecce - Listing Price Estimator](https://github.com/jorgebarrosmedeiros/airbnb)
-  * This project's main objective is to analyze airbnb data for the city of Athens and build a machine learning model to predict the price of new listings. As a prediction algorithm, the LGBM was used, obtaining a MAPE of 30%.
+  * This project's main objective is to analyze Airbnb data for the city of Athens and build a machine-learning model to predict the price of new listings. As a prediction algorithm, the LGBM was used, obtaining a MAPE of 30%.
   * Repository: https://github.com/jorgebarrosmedeiros/airbnb
 
-### [Rossmann Store - Forescasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
-  * Currently, knowing how much your company will bill in the coming weeks would change your decisions?
+### [Rossmann Store - Forecasting Sales](https://github.com/jorgebarrosmedeiros/RossmannStore)
+  * Currently, knowing how much your company will bill in the coming weeks would change your decisions.
  This project aims to use machine learning techniques to forecast sales in the next 6 weeks of a store called Rossmann.
  The XGBoost algorithm was used, obtaining a MAPE of 15%.
  The performance of this model would bring revenue of $ 277 million according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
 
 ### [Cardio Catch Diseases - Prediction of Cardiovascular Diseases](https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases)
-  * Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals.
+  * Building a Machine Learning Model to detect cardiovascular disease in its early stages leverages the diagnostic precision made by health professionals.
 In this project, I developed a Machine Learning model able to detect disease in early stages with 75% accuracy over 70k patience.
-The performance of this model would increase revenue of U$175 millions according to the company's business model described in the problem definition.
+The performance of this model would increase revenue of U$175 million according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/Cardio-Catch-Diseases---Predicting-Cardiovascular-Diseases
   
 ### [Blocker Fraud Company - Fraud Detection](https://github.com/jorgebarrosmedeiros/fraud_detection)
-  * Machine Learning and taking fraud detection to the next level. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
-In this project, I built a Machine Learning classifier to label fraudulent transactions with 99.7% of accuracy.
-The performance of this model would bring revenue of U$898 millions according to the company's business model described in the problem definition.
+  * Machine Learning and taking fraud detection to the next level. Companies are reducing their costs by detecting fraudulent transactions, while companies providing these types of services are increasing their income.
+In this project, I built a Machine Learning classifier to label fraudulent transactions with 99.7% accuracy.
+The performance of this model would bring revenue of U$898 million according to the company's business model described in the problem definition.
   * Repository: https://github.com/jorgebarrosmedeiros/fraud_detection
   
 ### [House Prices - Regression Problem](https://github.com/jorgebarrosmedeiros/house_prices)
-  * Housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers. In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features
-  The Random Forest Regressor algorithm was used, obtaining a MAPE of 7%.. 
+  * Housing prices are an important reflection of the economy, and housing price ranges are of great interest to both buyers and sellers. In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. The goal of this project is to create a regression model that can accurately estimate the price of the house given the features
+  The Random Forest Regressor algorithm was used, obtaining a MAPE of 7%. 
   * Repository: https://github.com/jorgebarrosmedeiros/house_prices
 
 ### [Health Insurance Predict](https://github.com/jorgebarrosmedeiros/health_insurance)
   * This project aims to make the company "Insurance Health" profit more. This company provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance. Therefore, a machine learning model was built that detects customers interested in the services. The ExtraTreesClassifier model was used, which obtained the best performance from the cumulative gain curve and lift curve metrics, to solve the problem.
   * Repository: https://github.com/jorgebarrosmedeiros/health_insurance
-
-
   
 
 ## Skills
