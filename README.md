@@ -9,9 +9,9 @@
 
 ## Data Engineer and Data Scientist
 
-<p align='center'>
-    <img src='banner.png'<
-</p>
+#<p align='center'>
+#    <img src='banner.png'<
+#</p>
 
 ### About Me
 
