@@ -7,7 +7,7 @@
 
 ## Hi, I'm Jorge Barros 
 
-## Data Scientist | Data Engineer
+## Data Engineer and Data Scientist
 
 <p align='center'>
     <img src='banner.png'<
@@ -19,34 +19,38 @@
 
 ⭐️ Some examples include: 
 
-🔹 🏗️ Built a Datalakehouse using Google Cloud infrastructure, improving data storage and accessibility, resulting in a 20% increase in data availability and a 15% reduction in data errors. 
-🔹 🚀 Developed ETL pipelines processing over 1TB of data daily, optimizing data delivery and ensuring data quality, leading to a 30% improvement in data processing efficiency. 
-🔹 🌐 Utilized Terraform to automate the creation of infrastructure, reducing deployment time by 30%.
-🔹 ⚙️ Implemented DBT (Data Build Tool) to streamline data transformation and modeling processes, ensuring efficient and scalable data pipelines for analytics and reporting.
-🔹 🗂️🔍 Implemented data lineage tracking and data catalog solutions to enhance data governance and data management processes.
+- 🔹 🏗️ Built a Datalakehouse using Google Cloud infrastructure, improving data storage and accessibility, resulting in a 20% increase in data availability and a 15% reduction in data errors. 
+- 🔹 🚀 Developed ETL pipelines processing over 1TB of data daily, optimizing data delivery and ensuring data quality, leading to a 30% improvement in data processing efficiency. 
+- 🔹 🌐 Utilized Terraform to automate the creation of infrastructure, reducing deployment time by 30%.
+- 🔹 ⚙️ Implemented DBT (Data Build Tool) to streamline data transformation and modeling processes, ensuring efficient and scalable data pipelines for analytics and reporting.
+- 🔹 🗂️🔍 Implemented data lineage tracking and data catalog solutions to enhance data governance and data management processes.
 
 In my past experiences I've worked with:
 
->> Building data products and infrastructure from scratch 🚀🔧
->> Building data lakes and DataWarehouse to serve the business team 📊🏢
->> Building APIs for process automation ⚙️🌐
->> Creating machine learning models 🧠🔬
->> Managing data projects 📈🔧
+- >> Building data products and infrastructure from scratch 🚀🔧
+- >> Building data lakes and DataWarehouse to serve the business team 📊🏢
+- >> Building APIs for process automation ⚙️🌐
+- >> Creating machine learning models 🧠🔬
+- >> Managing data projects 📈🔧
 
-🔧 Those are the main technologies I've been working with: 🌐 Google Cloud, AWS (Amazon Web Services), Python, Airflow, DBT, SQL, BigQuery, Terraform, Snowflake, and web scraping techniques (Scrapy, Beautiful Soup, Selenium).
+🔧 Those are the main technologies I've been working with: 
+
+- 🌐 Google Cloud
+- AWS (Amazon Web Services)
+- Python
+- Kafka
+- Apache Spark
+- Airflow
+- DBT
+- SQL
+- BigQuery
+- Terraform
+- Snowflake
+- Web scraping techniques (Scrapy, Beautiful Soup, Selenium).
 
 Let's connect to discuss how I can help your company harness the power of data to drive actionable insights and achieve your business goals. 📈💼
 
 Follow me on social media.
-
-**Analytical Tools:**
-
-* **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server.
-* **Data Processing and Analysis:** Python.
-* **Development:** Git, Scrum, Lean Analytics, Linux and Docker.
-* **Data Visualization:** Power BI, Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
-* **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series and Computer Vision.
-* **Machine Learning Deployment:** Heroku, AWS Cloud and Google Cloud Platform ( GCP )
     
 **Where to Find Me:**
 
@@ -56,24 +60,24 @@ Follow me on social media.
 
 # Data Engineering Projects:
 
-# AWS Projects:
+## AWS Projects:
 
-# GCP Projects
+## GCP Projects
 
-## [Gasoline in Brazil | Pipeline Google Cloud Platform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
+### [Gasoline in Brazil | Pipeline Google Cloud Platform Project](https://github.com/jorgebarrosmedeiros/pipeline_gcp)
   * In this project covers all stages of a real Data Engineer project. I was able to solve the problem of how to use data to answer important questions to allow a company to know about:
   * Repository: https://github.com/jorgebarrosmedeiros/pipeline_gcp
 
-# Other Data engineering projects:
+## Other Data engineering projects:
 
-## [Modern Data Stack -- MongoDB --> Airbyte --> Snowflake --> DBT](https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development)
+### [Modern Data Stack -- MongoDB --> Airbyte --> Snowflake --> DBT](https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development)
   * The Modern Data Stack Pipeline project showcases the seamless orchestration of data through a cutting-edge architecture designed for efficiency, scalability, and flexibility. This project leverages key components such as MongoDB, Airbyte, Snowflake, and DBT to create a robust data infrastructure that empowers organizations to harness the power of their data.
   * https://github.com/jorgebarrosmedeiros/modern_data_stack_pipeline/tree/development
-## [Modern Data Stack | Airbyte + DBT + Snoflake + Airflow](https://github.com/jorgebarrosmedeiros/modern-data-stack)
+### [Modern Data Stack | Airbyte + DBT + Snoflake + Airflow](https://github.com/jorgebarrosmedeiros/modern-data-stack)
   * This time the objective was to develop the entire Data Pipeline using some tools that together are known as "Modern Data Stack". Initially, a Covid 19 data connector was created with Airbyte. The saved data was integrated and sent to our Data Warehouse (Snowflake). To build the final table, I used DBT, allowing transformations and versioning of SQL codes, which is an extremely powerful tool. Finally, to orchestrate this entire pipeline, I used Airflow.
   * Repository: https://github.com/jorgebarrosmedeiros/modern-data-stack
 
-## [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
+### [Human Resources Analytics | Data Engineering & Data Science Project](https://github.com/jorgebarrosmedeiros/human-resource-analytics)
   * In this project covering all stages of a real Data Science project I was able to solve the problem of how to use data to answer important questions to allow a company to know about:
   * What are the factors that influence an employee to leave the company?
   * How to retain people?
@@ -81,7 +85,7 @@ Follow me on social media.
   * Finally, make resources available so that the company can predict to verify whether or not an employee will leave the company based on attributes such as behavior and workload, level of satisfaction with the company and performance results.
   * Repository: https://github.com/jorgebarrosmedeiros/human-resource-analytics
 
-## [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
+### [Star Jeans - (Data Engineering) ETL Project](https://github.com/jorgebarrosmedeiros/H-M_Jeans)
   * This project aims to solve the following business problem: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful businesses, they are planning to enter the fashion market. US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case, the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers.
   * So this project went through the entire data pipeline, from the extraction to the architecture of airflow automation.
   * Repository: https://github.com/jorgebarrosmedeiros/H-M_Jeans/blob/main/notebook.ipynb
